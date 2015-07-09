@@ -1,0 +1,6 @@
+D:\User Documents\Documents\Visual Studio 2010\Projects\cSharp_Isayenka_Poluektova\cSharp_Isayenka_Poluektova\bin\Debug\cSharp_Isayenka_Poluektova.exe
+D:\User Documents\Documents\Visual Studio 2010\Projects\cSharp_Isayenka_Poluektova\cSharp_Isayenka_Poluektova\bin\Debug\cSharp_Isayenka_Poluektova.pdb
+D:\User Documents\Documents\Visual Studio 2010\Projects\cSharp_Isayenka_Poluektova\cSharp_Isayenka_Poluektova\obj\x86\Debug\cSharp_Isayenka_Poluektova.exe
+D:\User Documents\Documents\Visual Studio 2010\Projects\cSharp_Isayenka_Poluektova\cSharp_Isayenka_Poluektova\obj\x86\Debug\cSharp_Isayenka_Poluektova.pdb
+D:\User Documents\Desktop\Anna_P_W15Portfolio\Academic Credentials\Academc Work Samples\projects\C#\cSharp_Isayenka_Poluektova\cSharp_Isayenka_Poluektova\obj\x86\Debug\cSharp_Isayenka_Poluektova.exe
+D:\User Documents\Desktop\Anna_P_W15Portfolio\Academic Credentials\Academc Work Samples\projects\C#\cSharp_Isayenka_Poluektova\cSharp_Isayenka_Poluektova\obj\x86\Debug\cSharp_Isayenka_Poluektova.pdb

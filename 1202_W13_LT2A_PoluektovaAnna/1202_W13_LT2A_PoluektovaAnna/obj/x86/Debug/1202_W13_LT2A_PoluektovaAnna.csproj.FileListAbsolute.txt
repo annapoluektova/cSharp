@@ -1,0 +1,15 @@
+c:\users\anna\documents\visual studio 2010\Projects\1202_W13_LT2A_PoluektovaAnna\1202_W13_LT2A_PoluektovaAnna\bin\Debug\1202_W13_LT2A_PoluektovaAnna.exe
+c:\users\anna\documents\visual studio 2010\Projects\1202_W13_LT2A_PoluektovaAnna\1202_W13_LT2A_PoluektovaAnna\bin\Debug\1202_W13_LT2A_PoluektovaAnna.pdb
+c:\users\anna\documents\visual studio 2010\Projects\1202_W13_LT2A_PoluektovaAnna\1202_W13_LT2A_PoluektovaAnna\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\anna\documents\visual studio 2010\Projects\1202_W13_LT2A_PoluektovaAnna\1202_W13_LT2A_PoluektovaAnna\obj\x86\Debug\1202_W13_LT2A_PoluektovaAnna.exe
+c:\users\anna\documents\visual studio 2010\Projects\1202_W13_LT2A_PoluektovaAnna\1202_W13_LT2A_PoluektovaAnna\obj\x86\Debug\1202_W13_LT2A_PoluektovaAnna.pdb
+C:\Users\Anna\Desktop\2 semestr\C#\1202_W13_LT2A_PoluektovaAnna\1202_W13_LT2A_PoluektovaAnna\obj\x86\Debug\1202_W13_LT2A_PoluektovaAnna.exe
+C:\Users\Anna\Desktop\2 semestr\C#\1202_W13_LT2A_PoluektovaAnna\1202_W13_LT2A_PoluektovaAnna\obj\x86\Debug\1202_W13_LT2A_PoluektovaAnna.pdb
+C:\Users\Anna\Desktop\2 semestr\C#\1202_W13_LT2A_PoluektovaAnna\1202_W13_LT2A_PoluektovaAnna\bin\Debug\1202_W13_LT2A_PoluektovaAnna.exe
+C:\Users\Anna\Desktop\2 semestr\C#\1202_W13_LT2A_PoluektovaAnna\1202_W13_LT2A_PoluektovaAnna\bin\Debug\1202_W13_LT2A_PoluektovaAnna.pdb
+F:\2 semestr\C#\1202_W13_LT2A_PoluektovaAnna\1202_W13_LT2A_PoluektovaAnna\obj\x86\Debug\1202_W13_LT2A_PoluektovaAnna.exe
+F:\2 semestr\C#\1202_W13_LT2A_PoluektovaAnna\1202_W13_LT2A_PoluektovaAnna\obj\x86\Debug\1202_W13_LT2A_PoluektovaAnna.pdb
+F:\2 semestr\C#\1202_W13_LT2A_PoluektovaAnna\1202_W13_LT2A_PoluektovaAnna\bin\Debug\1202_W13_LT2A_PoluektovaAnna.exe
+F:\2 semestr\C#\1202_W13_LT2A_PoluektovaAnna\1202_W13_LT2A_PoluektovaAnna\bin\Debug\1202_W13_LT2A_PoluektovaAnna.pdb
+D:\User Documents\Desktop\Academic Work Samples\C#\1202_W13_LT2A_PoluektovaAnna\1202_W13_LT2A_PoluektovaAnna\obj\x86\Debug\1202_W13_LT2A_PoluektovaAnna.exe
+D:\User Documents\Desktop\Academic Work Samples\C#\1202_W13_LT2A_PoluektovaAnna\1202_W13_LT2A_PoluektovaAnna\obj\x86\Debug\1202_W13_LT2A_PoluektovaAnna.pdb

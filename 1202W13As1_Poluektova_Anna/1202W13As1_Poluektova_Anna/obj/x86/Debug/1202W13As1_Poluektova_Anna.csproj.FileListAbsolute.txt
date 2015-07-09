@@ -1,0 +1,9 @@
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\1202W13As1_Poluektova_Anna\1202W13As1_Poluektova_Anna\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\1202W13As1_Poluektova_Anna\1202W13As1_Poluektova_Anna\bin\Debug\1202W13As1_Poluektova_Anna.exe
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\1202W13As1_Poluektova_Anna\1202W13As1_Poluektova_Anna\bin\Debug\1202W13As1_Poluektova_Anna.pdb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\1202W13As1_Poluektova_Anna\1202W13As1_Poluektova_Anna\obj\x86\Debug\1202W13As1_Poluektova_Anna.exe
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\1202W13As1_Poluektova_Anna\1202W13As1_Poluektova_Anna\obj\x86\Debug\1202W13As1_Poluektova_Anna.pdb
+F:\2 semestr\C#\1202W13As1_Poluektova_Anna\1202W13As1_Poluektova_Anna\obj\x86\Debug\1202W13As1_Poluektova_Anna.exe
+F:\2 semestr\C#\1202W13As1_Poluektova_Anna\1202W13As1_Poluektova_Anna\obj\x86\Debug\1202W13As1_Poluektova_Anna.pdb
+F:\2 semestr\C#\1202W13As1_Poluektova_Anna\1202W13As1_Poluektova_Anna\bin\Debug\1202W13As1_Poluektova_Anna.exe
+F:\2 semestr\C#\1202W13As1_Poluektova_Anna\1202W13As1_Poluektova_Anna\bin\Debug\1202W13As1_Poluektova_Anna.pdb
